@@ -34,7 +34,7 @@ export default function Navbar(){
   ${
     scrolled
       ? "bg-red-900/90 backdrop-blur-md shadow-md"
-      : "bg-red-800/20 backdrop-blur-sm"
+      : "bg-red-800/50 backdrop-blur-sm"
   }
 `}>
             <nav className={`
