@@ -1,0 +1,57 @@
+{
+    "categorias":[
+        {
+            "id":"vacuno",
+            "nombre":"Vacuno",
+            "productos":[
+                {
+                    "id":1,
+                    "nombre": "Lomo Vetado",
+                    "descripcion":"Corte jugoso ideal para la parrilla",
+                    "precio": 9990,
+                    "imagen": "/images/lomo-vetado.jpg"
+                },
+                {
+                    "id":2,
+                    "nombre": "Asado de Tira",
+                    "descripcion": "Clásico corte para asados familiares",
+                    "precio": 10000,
+                    "imagen":"/images/entrañas.jpg"
+                }
+            ]
+        },
+        {
+            "id":"pollo",
+            "nombre":"Pollo",
+            "productos":[
+                {
+                    "id":3,
+                    "nombre": "Pechuga de Pollo",
+                    "descripcion": "Corte versatil y magro",
+                    "precio": 4990,
+                    "imagen":"/images/pechuga-pollo.jpg"
+                }
+            ]
+        },
+        {
+            "id":"cerdo",
+            "nombre":"Cerdo",
+            "productos":[
+                {
+                    "id":4,
+                    "nombre": "Costillas de Cerdo",
+                    "descripcion": "Perfectas para la parrilla",
+                    "precio": 5000,
+                    "imagen":"/images/costillar.jpg"
+                },
+                {
+                    "id":5,
+                    "nombre": "Longanizas",
+                    "descripcion": "Longaniza artesanal de la zona",
+                    "precio": 7000,
+                    "imagen":"/images/longaniza.jpg"
+                }
+            ]
+        }
+    ]
+}
